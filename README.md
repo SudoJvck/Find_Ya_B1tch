@@ -1,7 +1,5 @@
 # Find Ya' Bitch! 
 
-![Find Ya' Bitch!](banner.png)
-
 Python script that allows you to use different search engines to find your bitch. 
 
 ## Prerequisites
