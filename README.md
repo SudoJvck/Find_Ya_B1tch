@@ -25,7 +25,7 @@ Python script that allows you to use different search engines to find your bitch
 3. Create a Custom Search Engine [here](https://cse.google.com/cse/) to obtain the Custom Search Engine ID (cx).
 
 4. Clone this repository:
-   - git clone https://github.com/SudoJvck/Find-Ya-B1tch.git
+   - git clone https://github.com/SudoJvck/Find_Ya_B1tch.git
    - cd Find-Ya-B1tch
    
 5. Open the script in a text editor and replace `API_KEY` and `CSE_ID` with your actual API key and Custom Search Engine ID.
